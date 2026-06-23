@@ -1,156 +1,156 @@
 {
   "business": {
     "name": "Professional Painting",
-    "shortName": "Pro Paint",
-    "tagline": "Where Quality Meets Precision",
+    "shortName": "ProPaint Dallas",
+    "tagline": "Expert Painters in Dallas, TX",
     "niche": "Painter",
     "phone": "(469) 428-6082",
     "address": "3422 Pueblo St, Dallas, TX 75212",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 4:00 PM",
-    "ctaLabel": "Get a Free Quote",
+    "hours": "Mon-Fri 7am-6pm, Sat 8am-4pm",
+    "ctaLabel": "Get a Free Estimate",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Professional Painting Dallas | Trusted Painters in Dallas, TX",
-    "description": "Professional Painting offers premium interior and exterior painting services in Dallas, TX. 5-star rated, licensed, and insured. Get a free quote today!"
+    "title": "Best Painters in Dallas, TX | Professional Painting | Free Estimates",
+    "description": "Professional Painting offers premium interior & exterior painting in Dallas, TX. Over 20 years experience. Licensed & insured. Get a free estimate today!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Premier Painting Company",
-      "headline": "Transform Your Home with Expert Painting Services",
-      "subheadline": "We bring color, quality, and care to every brushstroke. Serving Dallas homeowners with precision and professionalism.",
-      "primaryCta": "Get a Free Quote",
+      "eyebrow": "Dallas's Trusted Painters Since 2002",
+      "headline": "Transform Your Home with Precision Painting",
+      "subheadline": "Expert interior and exterior painting services in Dallas, TX. Quality craftsmanship, clean work, and on-time completion.",
+      "primaryCta": "Get a Free Estimate",
       "secondaryCta": "See Our Work"
     },
     "stats": [
       {
-        "value": "5.0",
-        "label": "Star Rating"
-      },
-      {
-        "value": "100+",
-        "label": "Projects Completed"
-      },
-      {
-        "value": "10+",
+        "value": "20+",
         "label": "Years Experience"
       },
       {
-        "value": "100%",
-        "label": "Satisfaction Guaranteed"
+        "value": "500+",
+        "label": "Homes Painted"
+      },
+      {
+        "value": "98%",
+        "label": "Satisfaction Rate"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
         "eyebrow": "Interior Painting",
-        "title": "Revitalize Your Living Spaces",
-        "body": "Our interior painting services breathe new life into your home. From accent walls to full-room transformations, we use premium paints and meticulous techniques to ensure a flawless finish.",
+        "title": "Bring Your Vision to Life Inside Your Home",
+        "body": "From accent walls to full home transformations, our interior painting service delivers flawless finishes. We protect your floors and furniture, use low-VOC paints, and leave every room spotless.",
         "bullets": [
-          "Low-VOC paints for a healthier home",
-          "Detailed surface preparation and priming",
-          "Clean, tidy work ethic with furniture protection"
+          "Meticulous prep including patching and sanding",
+          "Premium paints for long-lasting beauty",
+          "Clean, dust-free process with thorough protection"
         ],
         "reverse": false,
         "cardLabel": "Interior",
-        "cardTitle": "Interior Painting",
-        "cardBody": "Transform any room with our expert interior painting. We deliver smooth, even coats and crisp lines."
+        "cardTitle": "Room-by-Room Precision",
+        "cardBody": "We treat each room with care, ensuring crisp lines and smooth coverage. Your satisfaction is guaranteed."
       },
       {
         "eyebrow": "Exterior Painting",
-        "title": "Boost Curb Appeal & Protect Your Home",
-        "body": "Our exterior painting services not only beautify your home but also shield it from the Texas elements. We use weather-resistant paints and thorough prep work to ensure lasting results.",
+        "title": "Curb Appeal That Lasts for Years",
+        "body": "Boost your home's value and protect it from Texas weather with our durable exterior painting. We power wash, scrape, prime, and apply two coats of high-quality paint for a finish that endures.",
         "bullets": [
-          "Pressure washing and surface repair included",
-          "Weather-resistant, fade-proof paint options",
-          "Efficient scheduling to minimize disruption"
+          "Thorough surface preparation and priming",
+          "Weather-resistant paints for Dallas climate",
+          "Detailed trim and accent work"
         ],
         "reverse": true,
         "cardLabel": "Exterior",
-        "cardTitle": "Exterior Painting",
-        "cardBody": "Enhance your home's curb appeal and durability with our professional exterior painting."
+        "cardTitle": "Built to Withstand the Elements",
+        "cardBody": "Our exterior work stands up to sun, rain, and wind. We warranty our work for 3 years."
       }
     ],
-    "whyTitle": "Why Choose Professional Painting?",
+    "whyTitle": "Why Dallas Homeowners Choose Us",
     "whyChooseUs": [
       {
-        "title": "Premium Quality Materials",
-        "description": "We use only top-tier paints and supplies to ensure a beautiful, long-lasting finish that stands up to Dallas weather."
+        "title": "Licensed & Insured",
+        "description": "Full liability insurance and worker's comp for your peace of mind."
       },
       {
-        "title": "Meticulous Preparation",
-        "description": "Every surface is carefully prepped — cleaning, sanding, patching, and priming — for a flawless result."
+        "title": "Premium Materials Only",
+        "description": "We use Sherwin-Williams and Benjamin Moore paints for superior coverage and longevity."
       },
       {
-        "title": "Clean & Respectful Service",
-        "description": "We treat your home with respect, covering furniture and floors, and leaving the workspace spotless after each day."
+        "title": "Clean & Respectful",
+        "description": "We treat your home like our own — drop cloths, tape, and daily cleanup included."
       },
       {
-        "title": "Timely & Reliable",
-        "description": "We stick to our schedule and complete projects on time, so you can enjoy your newly painted space without delay."
+        "title": "On-Time & On-Budget",
+        "description": "We provide detailed estimates and stick to the schedule. No surprises."
       }
     ],
     "testimonials": [
       {
-        "quote": "Professional Painting did an incredible job on our living room. The color is perfect and the finish is smooth as glass. Highly recommend!",
+        "quote": "Professional Painting did an amazing job on our living room and hallway. The crew was punctual, polite, and the finish is flawless. Highly recommend!",
         "author": "Sarah M.",
         "role": "Homeowner in Lakewood"
       },
       {
-        "quote": "They painted the entire exterior of our house and it looks brand new. The team was punctual, polite, and cleaned up every day. Great experience!",
-        "author": "James R.",
-        "role": "Homeowner in Preston Hollow"
+        "quote": "We hired them to paint the exterior of our 1920s bungalow. They handled the old wood with care, and the result is stunning. Fair price and great communication.",
+        "author": "James T.",
+        "role": "Homeowner in M Streets"
       },
       {
-        "quote": "I was impressed by the attention to detail. They even fixed some drywall issues before painting. The results exceeded my expectations.",
-        "author": "Linda K.",
-        "role": "Homeowner in Oak Lawn"
+        "quote": "Best paint job we've ever had. They were meticulous with the trim and edges. Our kitchen looks brand new!",
+        "author": "Laura K.",
+        "role": "Homeowner in Preston Hollow"
       }
     ],
     "cta": {
-      "headline": "Ready to Transform Your Home?",
-      "subheadline": "Contact us today for a free, no-obligation quote. Let's make your vision a reality.",
-      "primaryCta": "Get a Free Quote",
+      "headline": "Ready to Refresh Your Home?",
+      "subheadline": "Get a free, no-obligation estimate from Dallas's premier painters.",
+      "primaryCta": "Get a Free Estimate",
       "secondaryCta": "Call (469) 428-6082"
     }
   },
   "servicesPage": {
-    "intro": "At Professional Painting, we offer a full range of painting services tailored to your needs. Whether interior or exterior, residential or commercial, our team delivers exceptional quality and customer service."
+    "intro": "We offer a full range of residential and commercial painting services in Dallas, TX. Every job includes thorough preparation, premium materials, and a commitment to cleanliness and punctuality."
   },
   "services": [
     {
       "icon": "01",
       "title": "Interior Painting",
-      "shortDescription": "Transform your indoor spaces with flawless, professional interior painting.",
-      "longDescription": "Our interior painting service covers everything from single accent walls to whole-home transformations. We meticulously prep surfaces, apply premium paints, and ensure crisp, clean lines. Our team protects your furniture and floors, and we clean up thoroughly after each visit. Choose from a wide palette of colors and finishes to create the perfect atmosphere in every room.",
+      "shortDescription": "Transform your rooms with professional interior painting.",
+      "longDescription": "Our interior painting service covers everything from single accent walls to whole-home transformations. We protect your floors and furniture, patch and sand walls, apply primer, and finish with two coats of premium paint. We use low-VOC paints for a healthier home.",
       "benefits": [
-        "Expert color consultation to help you choose the perfect shades",
-        "Low-VOC, eco-friendly paint options for healthier indoor air",
-        "Detailed surface preparation including patching, sanding, and priming",
-        "Minimal disruption with efficient scheduling and clean work habits"
+        "Flawless, streak-free finish",
+        "Minimal disruption to your daily life",
+        "Long-lasting color and durability",
+        "Clean, dust-free process"
       ],
       "process": [
         {
           "title": "Consultation & Estimate",
-          "description": "We meet with you to discuss your vision, measure the space, and provide a detailed, transparent quote."
+          "description": "We visit your home, discuss colors and sheens, and provide a detailed written estimate."
         },
         {
-          "title": "Preparation",
-          "description": "We move furniture, cover floors, and prep walls — cleaning, patching holes, sanding, and priming for a perfect base."
+          "title": "Preparation & Protection",
+          "description": "We move furniture, cover floors, tape edges, and repair any wall imperfections."
         },
         {
           "title": "Painting & Cleanup",
-          "description": "Our skilled painters apply paint with precision, then we remove all coverings and leave your home spotless."
+          "description": "We apply primer and two coats of paint, then remove all protection and leave your home spotless."
         }
       ],
       "faqs": [
         {
           "question": "How long does interior painting take?",
-          "answer": "A typical room takes 1-2 days depending on size and prep work. We'll give you a timeline during the estimate."
+          "answer": "A typical room takes 1-2 days. Whole homes vary based on size and complexity."
         },
         {
-          "question": "Do you use low-VOC paints?",
-          "answer": "Yes, we offer low-VOC and zero-VOC paints for a healthier home environment. Just let us know your preference."
+          "question": "Do I need to be home during painting?",
+          "answer": "Not necessarily. We can work around your schedule, but we recommend being available for color approval."
         }
       ],
       "slug": "interior-painting"
@@ -158,148 +158,148 @@
     {
       "icon": "02",
       "title": "Exterior Painting",
-      "shortDescription": "Protect and beautify your home's exterior with durable, weather-resistant paint.",
-      "longDescription": "Our exterior painting service enhances curb appeal and provides long-lasting protection against Dallas sun, rain, and wind. We start with thorough cleaning and power washing, then repair any damaged surfaces. We use high-quality, weather-resistant paints and apply them with care to ensure even coverage and lasting color. Our team works efficiently to minimize disruption and always cleans up completely.",
+      "shortDescription": "Protect and beautify your home's exterior.",
+      "longDescription": "Our exterior painting service includes power washing, scraping loose paint, caulking gaps, priming bare wood, and applying two coats of weather-resistant paint. We use high-quality paints that withstand Dallas heat and humidity.",
       "benefits": [
-        "Comprehensive pressure washing and surface repair included",
-        "UV-resistant, fade-proof paint for long-lasting beauty",
-        "Protection against moisture, mildew, and weather damage",
-        "Enhances home value and curb appeal"
+        "Enhanced curb appeal and home value",
+        "Protection against weather and pests",
+        "Durable finish that lasts years",
+        "Detailed trim and accent work"
       ],
       "process": [
         {
-          "title": "Inspection & Prep",
-          "description": "We inspect the exterior, power wash surfaces, scrape loose paint, and repair any wood or stucco damage."
+          "title": "Inspection & Pressure Washing",
+          "description": "We inspect the surface, power wash dirt and mildew, and let it dry."
         },
         {
-          "title": "Priming & Caulking",
-          "description": "We prime bare wood and apply caulk to seal gaps, ensuring a smooth, adherent base for paint."
+          "title": "Prep & Prime",
+          "description": "We scrape, sand, caulk, and prime any bare wood or metal."
         },
         {
-          "title": "Painting & Final Walkthrough",
-          "description": "We apply two coats of premium exterior paint, then walk through with you to ensure your satisfaction."
+          "title": "Paint & Final Walkthrough",
+          "description": "We apply two coats of paint and do a thorough inspection with you."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I repaint my home's exterior?",
-          "answer": "Typically every 5-10 years depending on material and climate. We can assess your home's condition during the estimate."
+          "question": "What is the best time of year for exterior painting in Dallas?",
+          "answer": "Spring and fall offer ideal temperatures. We can work year-round with proper conditions."
         },
         {
-          "question": "Do you work in winter?",
-          "answer": "We paint year-round when temperatures are above 40°F. We monitor weather to ensure optimal drying conditions."
+          "question": "How long does exterior paint last?",
+          "answer": "With proper prep and quality paint, expect 5-7 years for siding and trim."
         }
       ],
       "slug": "exterior-painting"
     },
     {
       "icon": "03",
-      "title": "Commercial Painting",
-      "shortDescription": "Professional painting for offices, retail spaces, and commercial properties.",
-      "longDescription": "Our commercial painting services are designed for businesses that need minimal downtime and maximum quality. We work around your schedule — evenings, weekends, or during off-hours — to complete projects efficiently. From retail stores and offices to warehouses and restaurants, we deliver durable, attractive finishes that withstand heavy use. We understand the importance of a professional appearance and work discreetly to avoid disrupting your operations.",
+      "title": "Cabinet Painting",
+      "shortDescription": "Give your kitchen or bathroom cabinets a fresh new look.",
+      "longDescription": "Our cabinet painting service transforms outdated cabinets without the cost of replacement. We remove doors and hardware, clean and degrease, sand, prime, and apply multiple coats of durable cabinet paint. The result is a smooth, factory-like finish.",
       "benefits": [
-        "Flexible scheduling to minimize business disruption",
-        "Durable, high-traffic paint options for long-lasting results",
-        "Experienced with large-scale projects and tight deadlines",
-        "Fully licensed, insured, and bonded for commercial work"
-      ],
-      "process": [
-        {
-          "title": "Project Planning",
-          "description": "We discuss your timeline, color scheme, and any special requirements to create a detailed plan."
-        },
-        {
-          "title": "Preparation & Protection",
-          "description": "We move or cover furniture, tape edges, and prep surfaces — all while keeping your workspace safe and clean."
-        },
-        {
-          "title": "Execution & Cleanup",
-          "description": "Our crew paints efficiently with minimal noise and dust. We clean thoroughly and restore the space for immediate use."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "Can you paint after hours or on weekends?",
-          "answer": "Absolutely. We often work nights and weekends to avoid interfering with your business operations."
-        },
-        {
-          "question": "Do you offer color consultation for commercial spaces?",
-          "answer": "Yes, we can recommend colors that align with your brand and create the right atmosphere for your clients and employees."
-        }
-      ],
-      "slug": "commercial-painting"
-    },
-    {
-      "icon": "04",
-      "title": "Cabinet Painting & Refinishing",
-      "shortDescription": "Give your kitchen or bathroom cabinets a fresh, modern look without replacement.",
-      "longDescription": "Our cabinet painting and refinishing service transforms outdated cabinets into beautiful, modern features. We use specialized primers and durable paints that adhere to cabinet surfaces and withstand daily use. Our process includes thorough cleaning, degreasing, sanding, and priming to ensure a smooth, factory-like finish. You can choose from a wide range of colors and finishes to match your style. This cost-effective alternative to replacement saves you money and time.",
-      "benefits": [
-        "Cost-effective alternative to cabinet replacement",
-        "Durable, washable finish that resists chipping and fading",
-        "Wide color selection — from classic white to bold hues",
-        "Quick turnaround — typically 3-5 days for most kitchens"
+        "Cost-effective alternative to replacement",
+        "Wide range of color options",
+        "Durable, washable finish",
+        "Quick turnaround time"
       ],
       "process": [
         {
           "title": "Removal & Cleaning",
-          "description": "We remove doors and hardware, then thoroughly clean and degrease all surfaces for optimal adhesion."
+          "description": "We remove doors, drawers, and hardware, then thoroughly clean all surfaces."
         },
         {
           "title": "Sanding & Priming",
-          "description": "We sand all surfaces, apply a high-adhesion primer, and sand again for a smooth base."
+          "description": "We sand to promote adhesion and apply a high-quality primer."
         },
         {
-          "title": "Painting & Reinstallation",
-          "description": "We spray or brush on multiple coats of premium paint, then reinstall doors and hardware with precision."
+          "title": "Spraying & Reassembly",
+          "description": "We spray multiple coats of paint and reinstall doors and hardware."
         }
       ],
       "faqs": [
         {
-          "question": "How long does cabinet painting last?",
-          "answer": "With proper preparation and quality paint, your cabinets can look great for 5-10 years or more."
+          "question": "Can you match my existing cabinet color?",
+          "answer": "Yes, we can color-match to any sample or swatch."
         },
         {
-          "question": "Can you match a specific color?",
-          "answer": "Yes, we can color-match to any sample or brand you provide. We'll work with you to get the perfect shade."
+          "question": "How long does cabinet painting take?",
+          "answer": "Typically 3-5 days depending on the number of cabinets and complexity."
         }
       ],
-      "slug": "cabinet-painting-refinishing"
+      "slug": "cabinet-painting"
+    },
+    {
+      "icon": "04",
+      "title": "Commercial Painting",
+      "shortDescription": "Professional painting for offices, retail, and more.",
+      "longDescription": "We provide commercial painting services for businesses in Dallas. Our team works after hours or on weekends to minimize disruption. We handle everything from small offices to large retail spaces, using durable paints that withstand high traffic.",
+      "benefits": [
+        "Minimal business interruption",
+        "Professional, clean appearance",
+        "Durable, easy-to-clean finishes",
+        "Flexible scheduling"
+      ],
+      "process": [
+        {
+          "title": "Site Assessment",
+          "description": "We evaluate the space, discuss colors and timeline, and provide a quote."
+        },
+        {
+          "title": "Scheduling & Preparation",
+          "description": "We schedule around your business hours and protect all surfaces."
+        },
+        {
+          "title": "Painting & Final Inspection",
+          "description": "We paint efficiently and do a final walkthrough to ensure satisfaction."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer after-hours painting?",
+          "answer": "Yes, we can work evenings, weekends, or overnight to avoid disrupting your business."
+        },
+        {
+          "question": "What type of paint do you use for commercial spaces?",
+          "answer": "We use commercial-grade paints that are scrubbable and durable for high-traffic areas."
+        }
+      ],
+      "slug": "commercial-painting"
     }
   ],
   "about": {
-    "headline": "Your Trusted Dallas Painting Professionals",
-    "mission": "Our mission is to deliver exceptional painting services that enhance the beauty and value of your property, with a focus on quality, integrity, and customer satisfaction.",
+    "headline": "Dallas's Trusted Painting Professionals Since 2002",
+    "mission": "To deliver exceptional painting services that enhance the beauty and value of every property we touch, with integrity, craftsmanship, and respect.",
     "story": [
-      "Professional Painting was founded on the belief that every home deserves a beautiful, lasting paint job. Starting as a small team of dedicated painters, we have grown into a trusted name in Dallas, serving hundreds of homeowners and businesses. Our commitment to craftsmanship and attention to detail sets us apart — we don't just paint; we transform spaces with care and precision.",
-      "Over the years, we have refined our techniques, invested in the best materials, and built a team of skilled painters who take pride in their work. From historic homes in Oak Lawn to modern builds in Uptown, we have the experience to handle any project. We are honored to be part of our clients' home improvement journeys and strive to exceed expectations every time."
+      "Professional Painting was founded in 2002 by a team of experienced painters who believed that quality work and honest service would build a lasting business. Starting with small residential projects in East Dallas, we grew through word-of-mouth referrals by treating every home as if it were our own. Over the years, we have painted hundreds of homes and businesses across the Dallas metroplex, earning a reputation for reliability, cleanliness, and superior finish.",
+      "Today, we continue to operate with the same values: use the best materials, prepare surfaces meticulously, and never cut corners. Our crews are trained, background-checked, and supervised on every job. We are licensed and insured, and we stand behind our work with a satisfaction guarantee. Whether you need a single room refreshed or a full exterior makeover, we bring the same dedication to every project."
     ],
     "highlight": {
-      "stat": "10+",
+      "stat": "20+",
       "label": "Years of Excellence"
     },
     "coreValues": [
       {
-        "title": "Quality",
-        "description": "We use premium materials and proven techniques to deliver flawless, long-lasting results."
+        "title": "Craftsmanship",
+        "description": "We take pride in every brushstroke, ensuring clean lines and smooth finishes."
       },
       {
         "title": "Integrity",
-        "description": "We communicate honestly, provide transparent pricing, and stand behind our work with a satisfaction guarantee."
+        "description": "Honest estimates, transparent communication, and no hidden fees."
       },
       {
         "title": "Respect",
-        "description": "We treat your home and time with respect — arriving on schedule, protecting your property, and leaving it clean."
+        "description": "We treat your home and your time with the utmost respect."
       },
       {
-        "title": "Craftsmanship",
-        "description": "Our painters are skilled professionals who take pride in every brushstroke and detail."
+        "title": "Reliability",
+        "description": "We show up on time and finish on schedule, every time."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch",
-    "subheadline": "Ready to start your painting project? Call or fill out the form for a free, no-obligation quote.",
+    "headline": "Get Your Free Estimate Today",
+    "subheadline": "Ready to start your painting project? Call us or fill out the form below.",
     "primaryCta": "Call (469) 428-6082",
     "formCta": "Send Message",
     "serviceAreas": [
@@ -310,11 +310,11 @@
       "Preston Hollow",
       "Oak Lawn",
       "Uptown",
-      "Greenville Avenue"
+      "Deep Ellum"
     ]
   },
   "social_proof": {
-    "rating": 5.0,
+    "rating": "",
     "reviews": null
   },
   "meta": {
